@@ -1,0 +1,44 @@
+body{
+	font-family: Segoe UI;
+	font-size: 14px;
+	color: #666;
+}
+header{
+	background-color: #202020;
+}
+footer{
+	background-color: #fff;
+	padding: 25px 0;
+	border-top: 1px solid #f6f6f6;
+	color: #333;
+	text-align: center;
+}
+footer img {
+    margin-bottom: 25px;
+    margin-top: 10px;
+}
+
+.titulos{
+font-style: italic;
+	color: #333;
+	text-align: center;
+}
+
+.parrafowelcome{
+	color: #373737;
+	text-align: center;
+}
+
+.fotouno{
+	color:#373737;
+	text-align: center;
+}
+
+.fotos{
+	align-items: center;
+}
+
+
+.pictureone{
+	background-image: url(../img/picture1.jpg);
+}
