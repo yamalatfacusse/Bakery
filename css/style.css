@@ -42,3 +42,21 @@ font-style: italic;
 .pictureone{
 	background-image: url(../img/picture1.jpg);
 }
+
+
+.centrar{
+	text-align: center;
+}
+
+
+.parrafoevents{
+	text-align: center;
+}
+
+.pan{
+	background-image: url(../img/bg_pic3.jpg);
+}
+
+.bakery{
+	color:#FF9306;
+}
